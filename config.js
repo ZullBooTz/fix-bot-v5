@@ -58,22 +58,22 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '6289603792741' //dana
+global.povo = '6289603792741' //ovo
+global.pgopay = '6289603792741' //gopay
+global.plinkaja = '6289603792741' //link aja
+global.ppulsa = '6289603792741' //telkomsel
+global.ppulsa2 = '6289603792741' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/mrw4h1kshd'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorown = '6289603792741'
+global.namebot = 'ZullBooTz-Md'
+global.nameown = 'Izu-Kun'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'WH-MODS-BOT' // nama github lu
+global.namagithub = 'https://github.com/ZullBooTz/ZullBooTz.git' // nama github lu
 global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -86,7 +86,7 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
+  ['6289603792741', 'Izu-Kun', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -94,8 +94,8 @@ global.owner = [
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6289603792741'] // Want some help?
+global.prems = ['6289603792741','6289525772874'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -158,14 +158,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ WH-MODS-BOT-V1"
+global.wm = '                「ZullBooTz-Md 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZullBooTz-Md˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ ZullBooTz-Md"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By ZullBooTz-Md`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "WH MODS DEV 乂 WH MODS BOT"
+global.author = "Izu-kun 乂 ZullBooTz-Md"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -239,8 +239,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'ZullBooTz-Md1'
+global.stickauth = `By ©Izu-kun`
 
 global.multiplier = 69 // The higher, The harder levelup
 
